@@ -1,0 +1,17 @@
+react: 
+  components
+    app
+    image
+      target
+
+    menu
+    nav
+      timer
+
+    score
+
+    state: characters, timer
+
+firebase: char location
+
+
