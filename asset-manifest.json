@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wheres-waldo/static/css/main.d18c51b1.css",
+    "main.js": "/wheres-waldo/static/js/main.54b745e2.js",
+    "static/media/ad2022-2.png": "/wheres-waldo/static/media/ad2022-2.34d74aa4ec632475f221.png",
+    "static/media/ad2022-1.png": "/wheres-waldo/static/media/ad2022-1.f03f049f8f36fde66ae1.png",
+    "static/media/leeloo.webp": "/wheres-waldo/static/media/leeloo.27db7df0de4ad1160970.webp",
+    "static/media/minions.jpg": "/wheres-waldo/static/media/minions.82e0a7cd069f6106e6a0.jpg",
+    "static/media/yubaba.png": "/wheres-waldo/static/media/yubaba.9c09fe1ebe7960dd04ce.png",
+    "static/media/waldo.webp": "/wheres-waldo/static/media/waldo.4e8cdc0da698cc312011.webp",
+    "static/media/kamaji.jpg": "/wheres-waldo/static/media/kamaji.b1e88835b2a43090b4e8.jpg",
+    "static/media/roger.png": "/wheres-waldo/static/media/roger.bdd94e30a87b6e5a3e99.png",
+    "static/media/vash.webp": "/wheres-waldo/static/media/vash.0671e1d5c6c74adeefda.webp",
+    "static/media/en.webp": "/wheres-waldo/static/media/en.a67c5161ef865d9d7df5.webp",
+    "static/media/cc.jpg": "/wheres-waldo/static/media/cc.4b99da00a09b51f28663.jpg",
+    "static/media/neo.webp": "/wheres-waldo/static/media/neo.841e976e43d63e56fdc0.webp",
+    "static/media/lupin.webp": "/wheres-waldo/static/media/lupin.f19b854060a0896ccc92.webp",
+    "static/media/killy.webp": "/wheres-waldo/static/media/killy.68566ecc404161277f11.webp",
+    "static/media/spike.jpg": "/wheres-waldo/static/media/spike.9fe219f6dcb5d98b2bfb.jpg",
+    "index.html": "/wheres-waldo/index.html",
+    "main.d18c51b1.css.map": "/wheres-waldo/static/css/main.d18c51b1.css.map",
+    "main.54b745e2.js.map": "/wheres-waldo/static/js/main.54b745e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d18c51b1.css",
+    "static/js/main.54b745e2.js"
+  ]
+}
